@@ -1,0 +1,26 @@
+{
+    "name": "aping/laravel-ding-robot",
+    "type": "laravel-package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "aping",
+            "email": "czp010443@gmail.com"
+        }
+    ],
+    "require": {
+        "aping/pdding-robot": "1.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Aping\\LaravelDingRobot\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Aping\\LaravelDingRobot\\RobotServiceProvider"
+            ]
+        }
+    }
+}
