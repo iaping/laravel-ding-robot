@@ -1,6 +1,6 @@
 ## Laravel DingTalk Robot
 
-Laravel DingTalk Robot SDK（Laravel钉钉机器人开发包）
+Laravel DingTalk Robot SDK（Laravel钉钉机器人开发包，支持发送多个机器人）
 
 ## Install
 
