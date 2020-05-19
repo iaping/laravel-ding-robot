@@ -3,7 +3,6 @@
 namespace Aping\LaravelDingRobot;
 
 use Aping\PddingRobot\Fast;
-use http\Exception\InvalidArgumentException;
 use Illuminate\Foundation\Application;
 
 class RobotManager
